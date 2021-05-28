@@ -10,3 +10,5 @@ perimeter_rect = (length_rect + width_rect) * 2
 area_rect = length_rect * width_rect
 print('Периметр:', perimeter_rect)
 print('Площадь:', area_rect)
+
+#коммит №2
